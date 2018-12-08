@@ -107,7 +107,7 @@ This is spring boot based api for employee management API.
 ]
 ```
 
-####Setting:
+#### Settings:
 
 In applicaiton.properties file 
 
